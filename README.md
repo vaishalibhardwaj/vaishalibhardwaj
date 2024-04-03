@@ -1,16 +1,21 @@
-### 🙋🏻‍♀️ Introducing Myself
+<h2> Hi, I'm Vaishali Bhardwaj! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/10/TinyStories-byAdamNickel-Lede-scaled.webp" width="430">
 
-<!--
-**vaishalibhardwaj/vaishalibhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+```javascript
+const vaishali = {
+  pronouns: "she" | "her",
+  code: [Javascript, NodeJs, Python],
+  tools: [Node, MongoDb, Elasticsearch, Docker, Express, Fastify],
+  compSci: ["microservices", "data structures", "algorithms", "operating systems"],
+  challenge: "I am doing the #75DaysOfCode challenge focused on DSA"
+}
+```
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![Instagram: codewithchani](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithchani/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishali-bhardwaj-elohim/)
+[![GitHub Thaiane](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishalibhardwaj)
