@@ -19,5 +19,8 @@ Currently, I'm based in the beautiful city of bengaluru 🌉 where I work as a S
 ---
 
 [![Instagram: codewithchani](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithchani/)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishali-bhardwaj-elohim/)
-[![GitHub Thaiane](	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishalibhardwaj)
+[![Linkedin: vaishali](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishali-bhardwaj-elohim/)
+[![GitHub vaishali](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishalibhardwaj)
+[![Medium vaishali](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://vaishalibhardwaj8109.medium.com/)
+
+
