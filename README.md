@@ -14,7 +14,7 @@ const vaishali = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b><b>I'm a passionate 🥇, creative 🎨, and perceptive 🔭 engineer 🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge 📚. Anything and everything that can be classified as technology 💻 fascinates me.
 
-Currently, I'm based in the beautiful city of bengaluru 🌉 where I work as a SDE-1 🧑‍🔬 tackling fascinating problems in Finance 💰</b> :)</em>
+Currently, I'm based in kathua, Jammu and kashmir 🌉 where I work (Remote) as a SDE-1 🧑‍🔬 tackling fascinating problems in Finance 💰</b> :)</em>
 
 ---
 
