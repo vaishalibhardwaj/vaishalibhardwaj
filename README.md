@@ -1,23 +1,19 @@
-<h2> Hi, I'm Vaishali Bhardwaj! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/10/TinyStories-byAdamNickel-Lede-scaled.webp" width="430">
+<div align="center">
+  <a href="https://vaishalibhardwaj.github.io/my-portfolio/">
+    <img src="https://github.com/vaishalibhardwaj/mysvg/blob/main/gitread.svg" width="800" height="auto">
+  </a>
+</div>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-```javascript
-const vaishali = {
-  pronouns: "she" | "her",
-  code: [Javascript, NodeJs, Python],
-  tools: [Node, MongoDb, Elasticsearch, Docker, Express, Fastify],
-  compSci: ["microservices", "data structures", "algorithms", "operating systems"],
-  challenge: "Currently generating bedtime-stories using gpt-4o-mini"
-}
-```
+-----------------
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people </b><b>I'm a passionate 🥇, creative 🎨, and perceptive 🔭 engineer 🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge 📚. Anything and everything that can be classified as technology 💻 fascinates me.
+<br/>
 
----
+<div align="center">
+  <p>I'm working on quite a few things these days. <br/> Check out some of my projects below.</p>
 
-[![Linkedin: vaishali](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishali-bhardwaj-elohim/)
-[![GitHub vaishali](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishalibhardwaj)
-[![Medium vaishali](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://vaishalibhardwaj8109.medium.com/)
+  <p>If you feel like browsing some of my thoughts, <br/> head over to <a href="https://vaishalibhardwaj8109.medium.com/">medium</a></p><br/>
+</div>
 
+-----------------
 
+<br/>
